@@ -1,6 +1,10 @@
 {
-  "scripts":{
-    "start":"node index.js"
-  },
-  "employees": []
+  "employees": [
+    {
+      "id": "sd",
+      "username": "cvxbcf",
+      "email": "vitinaprijo7499@gmail.com",
+      "status": "Active"
+    }
+  ]
 }
